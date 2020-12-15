@@ -1,0 +1,11 @@
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\bootstrap\BeerLoader.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\MsscBeerServiceApplication.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\web\model\BeerPagedList.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\domain\Beer.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\web\controller\BeerController.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\web\model\BeerDto.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\web\mappers\BeerMapper.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\web\model\BeerStyleEnum.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\repositories\BeerRepository.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\web\controller\MvcExceptionHandler.java
+C:\Developer\Workspaces\mssc-beer-service\src\main\java\da\springframework\msscbeerservice\web\mappers\DateMapper.java
