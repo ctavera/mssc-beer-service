@@ -1,3 +1,17 @@
 da\springframework\msscbeerservice\web\mappers\BeerMapperImpl.class
+da\springframework\msscbeerservice\web\controller\BeerController.class
+da\springframework\msscbeerservice\web\model\BeerPagedList.class
+da\springframework\msscbeerservice\web\controller\NotFoundException.class
+da\springframework\msscbeerservice\bootstrap\BeerLoader.class
+da\springframework\msscbeerservice\web\controller\MvcExceptionHandler.class
 da\springframework\msscbeerservice\web\mappers\BeerMapper.class
+da\springframework\msscbeerservice\repositories\BeerRepository.class
+da\springframework\msscbeerservice\domain\Beer$BeerBuilder.class
+da\springframework\msscbeerservice\services\BeerServiceImpl.class
+da\springframework\msscbeerservice\domain\Beer.class
+da\springframework\msscbeerservice\services\BeerService.class
+da\springframework\msscbeerservice\web\model\BeerDto$BeerDtoBuilder.class
 da\springframework\msscbeerservice\web\mappers\DateMapper.class
+da\springframework\msscbeerservice\web\model\BeerStyleEnum.class
+da\springframework\msscbeerservice\MsscBeerServiceApplication.class
+da\springframework\msscbeerservice\web\model\BeerDto.class
