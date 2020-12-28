@@ -1,2 +1,3 @@
 da\springframework\msscbeerservice\MsscBeerServiceApplicationTests.class
+da\springframework\msscbeerservice\services\inventory\BeerInventoryServiceRestTemplateImplTest.class
 da\springframework\msscbeerservice\web\controller\BeerControllerTest.class
