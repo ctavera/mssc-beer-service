@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: da.springframework.msscbeerservice.MsscBeerServiceApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.271 s - in da.springframework.msscbeerservice.MsscBeerServiceApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.814 s - in da.springframework.msscbeerservice.MsscBeerServiceApplicationTests
