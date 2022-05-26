@@ -1,4 +1,4 @@
-package da.springframework.msscbeerservice.services;
+package da.springframework.msscbeerservice.services.brewing;
 
 import da.springframework.msscbeerservice.config.JmsConfig;
 import da.springframework.msscbeerservice.domain.Beer;
