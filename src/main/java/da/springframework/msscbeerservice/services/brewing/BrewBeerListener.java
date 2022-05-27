@@ -2,8 +2,8 @@ package da.springframework.msscbeerservice.services.brewing;
 
 import da.springframework.msscbeerservice.config.JmsConfig;
 import da.springframework.msscbeerservice.domain.Beer;
-import da.springframework.msscbeerservice.events.BrewBeerEvent;
-import da.springframework.msscbeerservice.events.NewInventoryEvent;
+import da.springframework.common.events.BrewBeerEvent;
+import da.springframework.common.events.NewInventoryEvent;
 import da.springframework.msscbeerservice.repositories.BeerRepository;
 import da.springframework.msscbeerservice.web.model.BeerDto;
 import lombok.RequiredArgsConstructor;

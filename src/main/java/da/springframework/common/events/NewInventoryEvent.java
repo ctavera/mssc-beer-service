@@ -1,4 +1,4 @@
-package da.springframework.msscbeerservice.events;
+package da.springframework.common.events;
 
 import da.springframework.msscbeerservice.web.model.BeerDto;
 import lombok.NoArgsConstructor;
