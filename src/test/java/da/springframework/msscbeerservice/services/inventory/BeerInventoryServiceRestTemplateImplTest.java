@@ -1,6 +1,5 @@
 package da.springframework.msscbeerservice.services.inventory;
 
-import da.springframework.msscbeerservice.bootstrap.BeerLoader;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
