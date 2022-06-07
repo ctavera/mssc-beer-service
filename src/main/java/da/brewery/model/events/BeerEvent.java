@@ -1,6 +1,6 @@
-package da.springframework.common.events;
+package da.brewery.model.events;
 
-import da.springframework.msscbeerservice.web.model.BeerDto;
+import da.brewery.model.BeerDto;
 import lombok.*;
 
 import java.io.Serializable;

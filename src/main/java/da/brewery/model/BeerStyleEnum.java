@@ -1,4 +1,4 @@
-package da.springframework.msscbeerservice.web.model;
+package da.brewery.model;
 
 public enum BeerStyleEnum {
     LAGER, PILSNER, STOUT, GOSE, PORTER, ALE, WHEAT, IPA, PALE_ALE, SAISON

@@ -1,4 +1,4 @@
-package da.springframework.msscbeerservice.web.model;
+package da.brewery.model;
 
 import com.fasterxml.jackson.annotation.JsonCreator;
 import com.fasterxml.jackson.annotation.JsonProperty;

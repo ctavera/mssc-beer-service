@@ -2,7 +2,7 @@ package da.springframework.msscbeerservice.services.brewing;
 
 import da.springframework.msscbeerservice.config.JmsConfig;
 import da.springframework.msscbeerservice.domain.Beer;
-import da.springframework.common.events.BrewBeerEvent;
+import da.brewery.model.events.BrewBeerEvent;
 import da.springframework.msscbeerservice.repositories.BeerRepository;
 import da.springframework.msscbeerservice.services.inventory.BeerInventoryService;
 import da.springframework.msscbeerservice.web.mappers.BeerMapper;
