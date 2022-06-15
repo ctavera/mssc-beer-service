@@ -26,7 +26,7 @@ public class BrewBeerListener {
     public void listen(BrewBeerEvent brewBeerEvent){
         BeerDto beerDto = brewBeerEvent.getBeerDto();
 
-        Beer beer = beerRepository.getReferenceById(beerDto.getId());
+        Beer beer = beerRepository.findById(beerDto.getId()).get();
 
         beerDto.setQuantityOnHand(beer.getQuantityToBrew());
 
