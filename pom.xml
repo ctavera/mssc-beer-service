@@ -6,7 +6,7 @@
     <parent>
         <groupId>io.github.ctavera</groupId>
         <artifactId>mssc-brewery-bom</artifactId>
-        <version>1.0.8</version>
+        <version>1.0.9</version>
     </parent>
 
     <groupId>da.springframework</groupId>
