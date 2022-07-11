@@ -19,5 +19,7 @@ filebeat.autodiscover:
                   overwrite_keys: true
 output.elasticsearch:
   hosts: ["elasticsearch:9200"]
+  username: "elastic"
+  password: "2c+D5gSUtQET50qb=d_Q"
 
 logging.metrics.enabled: false

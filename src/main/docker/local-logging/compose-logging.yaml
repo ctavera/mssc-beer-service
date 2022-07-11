@@ -15,6 +15,7 @@ services:
       - elasticsearch
   filebeat:
     image: docker.elastic.co/beats/filebeat:8.3.2
+    command: filebeat -e -strict.perms=false
     volumes:
       - ./filebeat/filebeat.docker.yml:/usr/share/filebeat/filebeat.yml:ro  # Configuration file
       - /var/lib/docker/containers:/var/lib/docker/containers:ro            # Docker logs
